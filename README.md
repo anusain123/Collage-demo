@@ -1,4 +1,5 @@
 # Collage-demo
+
 this is my frist repo
 <br>
-Author -anu sain
+Author - sain (Anu sain)
